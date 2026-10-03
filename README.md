@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of exercisebook/fof-upload-imagex.** Not for installation: use [Packagist](https://packagist.org/packages/exercisebook/fof-upload-imagex) or the [upstream repository](https://github.com/ExerciseBook/fof-upload-imagex).
 
-**0** versions archived · Latest: [`v1.7.0`](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.7.0) · License: `MIT`
+**12** versions archived · Latest: [`v1.7.0`](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.7.0) · License: `MIT`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2022-07-27 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.0.0) |
+| `v1.0.1` | 2022-07-27 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.0.1) |
+| `v1.1.0` | 2022-07-28 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.1.0) |
+| `v1.2.0` | 2022-07-29 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.2.0) |
+| `v1.3.0` | 2022-08-02 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.3.0) |
+| `v1.3.1` | 2022-08-02 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.3.1) |
+| `v1.3.2` | 2022-09-07 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.3.2) |
+| `v1.4.0` | 2022-11-03 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.4.0) |
+| `v1.5.0` | 2023-01-14 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.5.0) |
+| `v1.5.1` | 2023-01-15 | — | [Browse](https://github.com/flarchive/exercisebook-fof-upload-imagex/tree/archive/v1.5.1) |
+
+[View all 12 versions](https://github.com/flarchive/exercisebook-fof-upload-imagex/tags)
 
 Catalog entry: [packages/exercisebook-fof-upload-imagex.json](https://github.com/flarchive/archive-index/blob/main/packages/exercisebook-fof-upload-imagex.json)
 
